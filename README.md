@@ -28,7 +28,7 @@ de la bisección. Contiene un ejemplo para la función $f(x) = e^{-x}-ln(x)=0$ e
 
 - Hallar la raíz de la ecuación $f(x) = e^{-x}+x-2$, utilizando el método de la secante.
 
-### Problema de aplicación
+## Problema de aplicación
 
 - En este documento llamado "ExposicionParcial1.ipynb" se escuentra un problema de aplicación
 de ingeniería mediante métodos numéricos, además se implementa el método de Newton-Raphson
