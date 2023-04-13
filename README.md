@@ -33,6 +33,14 @@ de la bisección. Contiene un ejemplo para la función $f(x) = e^{-x}-ln(x)=0$ e
 - Hallar la raíz de la ecuación $f(x) = e^{-x}+x-2$, utilizando el método de la secante.
 
 ```
+Polinomios de Interpolación
+```
+
+### Polinomio de Interpolación de Lagrange
+
+### Polinomio de Interpolación de Newton
+
+```
 Regresión Lineal
 ```
 
