@@ -7,6 +7,10 @@ variedad de métodos numéricos con los cuales se pueda resolver algunas ecuacio
 ```
 ## Contenidos
 
+```
+Métodos para solucionar ecuaciones las cuales no se pueden realizar por simples herramientas algebraicas.⚙
+```
+
 ### Método de la Bisección
 
 - En este apartado se encuentra el código el cual permite resolver una ecuación por el método
@@ -27,6 +31,26 @@ de la bisección. Contiene un ejemplo para la función $f(x) = e^{-x}-ln(x)=0$ e
 ### Método de la Secante
 
 - Hallar la raíz de la ecuación $f(x) = e^{-x}+x-2$, utilizando el método de la secante.
+
+```
+Polinomios de Interpolación
+```
+
+### Polinomio de Interpolación de Lagrange
+
+### Polinomio de Interpolación de Newton
+
+```
+Regresión Lineal
+```
+
+### Ajuste por Mínimos Cuadrados
+
+```
+Diferenciación Numérica
+```
+
+### Definición
 
 ## Problema de aplicación
 
